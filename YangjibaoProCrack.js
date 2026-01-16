@@ -17,7 +17,7 @@
 [rewrite_local]
   
 # > 养基宝☆解锁会员权限（2023-12-30）@ddgksf2013
-^https?:\/\/.*yangjibao\.com\/(wxapi\/)?account url script-response-body https://github.com/n0back/Scripts/raw/main/YangJiBaoProCrack.js
+^https?:\/\/.*yangjibao\.com\/(wxapi\/)?account url script-response-body https://raw.githubusercontent.com/n0back/Scripts/refs/heads/main/YangjibaoProCrack.js
 
 
 [mitm] 
